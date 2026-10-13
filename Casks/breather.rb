@@ -1,6 +1,6 @@
 cask "breather" do
-  version "0.4.0"
-  sha256 "2ab531a56f9c617cc514f109d6597f6da51d277da0969f35e67149dcc97fd972"
+  version "0.5.0"
+  sha256 "63d6e9c6cc3edf2324d558c074e3ce02018c397e043a0b1c871abfc483833e2e"
 
   url "https://github.com/M3tar/Breather/releases/download/v#{version}/Breather-#{version}.dmg"
   name "Breather"

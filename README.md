@@ -29,7 +29,7 @@ If you already installed Breather manually, quit it and move the existing `Breat
 
 ### First launch and security
 
-The current release is **not signed with an Apple Developer ID or notarized by Apple**, so macOS may block it. Review the [release notes](https://github.com/M3tar/Breather/releases/tag/v0.4.0) and [Apple's guidance for apps from unknown developers](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) before deciding whether to open it. This tap preserves Homebrew's normal quarantine and macOS security checks.
+The current release is **not signed with an Apple Developer ID or notarized by Apple**, so macOS may block it. Review the [release notes](https://github.com/M3tar/Breather/releases/tag/v0.5.0) and [Apple's guidance for apps from unknown developers](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac) before deciding whether to open it. This tap preserves Homebrew's normal quarantine and macOS security checks.
 
 ## Update
 
